@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="something_went_wrong">Something went wrong. Please check your internet connection</string>
+    <string name="enter_city_name">Please enter city name</string>
+    <string name="title_wetaher_detail">Weather Detail</string>
+    <string name="weather_data">Weather Data</string>
+    <string name="search_hint">Enter city name</string>
+    <string name="last_updated_on">Last updated on</string>
+    <string name="description">Description:</string>
+    <string name="wind">Wind :</string>
+    <string name="humidity">Humidity :</string>
+</resources>
